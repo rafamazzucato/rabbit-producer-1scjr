@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    addresses: amqps://nexpyzom:YTqbDdjqRDbgzUMd2wGqz5hEQO0sl07N@stingray.rmq.cloudamqp.com/nexpyzom
+
+queue:
+  fiap: fiap.1scjr.mensagens
